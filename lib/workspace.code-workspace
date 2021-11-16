@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "c_engineer",
+			"path": ".."
+		},
+		{
+			"name": "assets",
+			"path": "..\\..\\..\\Course-App-master\\assets"
+		}
+	],
+	"settings": {}
+}
